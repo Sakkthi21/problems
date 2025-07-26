@@ -1,0 +1,6 @@
+{
+  "name": "Code Solver Suite",
+  "description": "An elegant web application showcasing solutions to four classic programming challenges: Caesar Cipher, Indian Currency Formatting, List Combination, and Loss Minimization.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
